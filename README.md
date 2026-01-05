@@ -22,21 +22,6 @@ The goal of this project is to:
 
 ## 📊 Dashboard Overview
 
-The dashboard provides both **high-level KPIs** and **detailed analytics**:
-
-### 🔑 Key Metrics
-- **Total Revenue**
-- **Total Bookings**
-- **Total Guests**
-- **Average Booking Value**
-
-### 📈 Visual Analytics
-- Monthly Revenue Trend
-- Monthly Booking Trend
-- Top Cities by Revenue
-- Bookings by Status (Confirmed / Cancelled / No-show)
-- Bookings by Room Type
-
 ![Dashboard](docs/dashboard.png)
 
 ---
